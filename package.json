@@ -1,0 +1,26 @@
+{
+  "name": "gemifunc",
+  "version": "1.0.0",
+  "description": "Gemifunc is a one-function module with which you can describe all gemini tests in the form of an array of data and run it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feltiko/Gemifunc.git"
+  },
+  "keywords": [
+    "gemini",
+    "one",
+    "function",
+    "test",
+    "data"
+  ],
+  "author": "Lukianchikov Max (feltmax@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feltiko/Gemifunc/issues"
+  },
+  "homepage": "https://github.com/feltiko/Gemifunc#readme"
+}
